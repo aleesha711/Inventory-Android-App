@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="new_product">Add new Product</string>
+    <string name="supplier_name_title">Supplier Name</string>
+    <string name="quantity_title">Quantity</string>
+    <string name="price_title">Price</string>
+    <string name="product_name_title">Product Name</string>
+    <string name="currency_details">$ / item</string>
+    <string name="action_save">Save Product</string>
+    <string name="add_product">Add new Product</string>
+    <string name="update_product">Update Product</string>
+    <string name="phone">Phone</string>
+    <string name="add_products">There is no product currently, please add products to your inventory</string>
+    <string name="delete_message">Are you sure you want to procede with the deletion?</string>
+    <string name="delete">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_image">Select image</string>
+    <string name="image">Image</string>
+    <string name="unsaved_dialog">There are some unsaved changes, do you still want to continue?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_updating">Keep Upating</string>
+    <string name="supplier_phone">Supplier Phone</string>
+</resources>
